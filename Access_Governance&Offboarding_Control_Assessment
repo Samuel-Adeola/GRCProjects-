@@ -1,3 +1,61 @@
+
+##Task brief
+You are starting a readiness assessment for Boxelder Payroll Systems, a US payroll SaaS pursuing its first SOC 2 Type II report. Two people left the company earlier this year. Compare the identity and access evidence against the current staff directory and report what access was left behind.
+
+##Policies and procedures: POL-009 Onboarding and Offboarding Procedure
+Onboarding and Offboarding Procedure
+Boxelder Payroll Systems, Inc.
+Document reference	POL-009
+Version	2.1
+Document owner	Bernice Toland, HR Manager
+Approved by	D. Whitcomb, Chief Executive Officer
+Date approved	11 March 2025
+Review cycle	24 months
+Next review due	11 March 2027
+Classification	Internal
+
+1. Purpose
+This procedure sets out the steps to be completed when a person joins, moves within, or leaves Boxelder, so that access is granted and revoked reliably.
+2. Scope
+All employees and contractors at all locations, including remote staff.
+3. Onboarding checklist
+#	Task	Owner	Due
+1	Signed offer and I-9 / W-4 received	HR	Before start
+2	Background check cleared	HR	Before start
+3	Microsoft 365 account and license	IT	Day 1
+4	Security group membership assigned	IT	Day 1
+5	GitHub organization invite (engineering)	IT	Day 1
+6	Helprail agent account (support)	IT	Day 1
+7	Payroll system access (finance)	IT	Day 1
+8	Laptop issued with disk encryption enabled (POL-007 s.6)	IT	Day 1
+9	Building badge issued (Columbus / Austin)	Office Manager	Day 1
+10	Security awareness training assigned	HR	Week 1
+11	Policy acknowledgement signed	HR	Week 1
+
+4. Role change
+On a role or team change, the receiving manager notifies HR, who requests the access appropriate to the new role. Remove access from the prior role that is no longer required at the same time.
+
+5. Offboarding checklist
+#	Task	Owner	Due
+1	Resignation or termination confirmed to IT	HR	On notice
+2	Microsoft 365 account disabled	IT	Last day
+3	Mailbox converted to shared, delegated to manager	IT	Last day
+4	Security group membership removed	IT	Last day
+5	Payroll system access revoked	IT	Last day
+6	VPN / network access revoked	IT	Last day
+7	Laptop returned and wiped	IT	Last day
+8	Building badge deactivated	Office Manager	Last day
+9	Final pay and benefits processed	HR	Next cycle
+10	Offboarding checklist filed	HR	Within 5 days
+
+6. Contractors
+Contractors follow the same checklists. The engaging manager is responsible for notifying HR of the contract end date at engagement and again in the final week.
+
+7. Responsibilities
+HR owns this procedure and is accountable for completion of each checklist. IT performs the technical tasks. Managers notify HR promptly.
+
+
+
 IDENTITY AND ACCESS
 -------------------
 
