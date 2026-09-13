@@ -1,6 +1,8 @@
 
 ##Task brief
-You are starting a readiness assessment for Boxelder Payroll Systems, a US payroll SaaS pursuing its first SOC 2 Type II report. Two people left the company earlier this year. Compare the identity and access evidence against the current staff directory and report what access was left behind.
+You are starting a readiness assessment for Boxelder Payroll Systems, a US payroll SaaS pursuing its first SOC 2 Type II report. Two people left 
+the company earlier this year. Compare the identity and access evidence against the current staff directory and report what access was left 
+behind.
 
 ##Policies and procedures: POL-009 Onboarding and Offboarding Procedure
 Onboarding and Offboarding Procedure
@@ -15,7 +17,7 @@ Next review due	11 March 2027
 Classification	Internal
 
 1. Purpose
-This procedure sets out the steps to be completed when a person joins, moves within, or leaves Boxelder, so that access is granted and revoked reliably.
+This procedure outlines the steps to complete when a person joins, moves within, or leaves Boxelder, so access is granted and revoked reliably.
 2. Scope
 All employees and contractors at all locations, including remote staff.
 3. Onboarding checklist
